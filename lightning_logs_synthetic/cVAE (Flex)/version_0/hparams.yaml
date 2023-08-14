@@ -1,0 +1,8 @@
+conditioning_dim: 10
+data_dim: 6
+hidden_dim:
+- 256
+- 128
+lr: 1.0e-05
+optimizer: adam
+z_dim: 64

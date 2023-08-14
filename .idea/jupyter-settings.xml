@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="5be16a446ed857dd4f108a8861e8243bd4db160024058b79" />
+          <option name="urlString" value="http://localhost:8880/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="5be16a446ed857dd4f108a8861e8243bd4db160024058b79" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="cf0cef9bb33fbd0023c9f92f92d70ba6444fd57e595541dc" />
+          <option name="urlString" value="http://wonder.inria.fr:8887/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="cf0cef9bb33fbd0023c9f92f92d70ba6444fd57e595541dc" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="2467899aa535cdcc1218cde8f5444138c0b7fca5f7c7fb96" />
+          <option name="urlString" value="http://wonder:8887/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="2467899aa535cdcc1218cde8f5444138c0b7fca5f7c7fb96" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/../tiger-challenge/.idea/tiger-challenge.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

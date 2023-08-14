@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "mecvae"
+version = "0.1.0"
+description = "Mixed effects conditional variational autoencoder"
+authors = ["Santiago SILVA <16252054+sssilvar@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+lightning = "^2.0.2"
+pandas = "^2.0.1"
+patsy = "^0.5.3"
+statsmodels = "^0.14.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.22.0"
+optuna = "^3.1.1"
+matplotlib = "^3.7.1"
+torchvision = "^0.15.1"
+seaborn = "^0.12.2"
+tensorboard = "^2.12.3"
+scikit-learn = "^1.2.2"
+jupyter = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
